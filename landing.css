@@ -1,0 +1,15 @@
+body {
+    font-size: 18px;
+    font-family: monospace;
+  }
+  
+  h1 {
+    font-size: 30px;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+    border: 1px solid;
+  }
+  

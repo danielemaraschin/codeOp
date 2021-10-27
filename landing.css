@@ -1,15 +1,41 @@
 body {
-    font-size: 18px;
-    font-family: monospace;
-  }
-  
-  h1 {
-    font-size: 30px;
-  }
-  
-  ul {
-    display: flex;
-    list-style: none;
-    border: 1px solid;
-  }
-  
+  font-size: 18px;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  border: 1px solid;
+}
+
+li {
+  margin: 0 20px;
+  color: brown;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+img {
+  max-width: 10%;
+}
+
+.content {
+  display: flex;
+}
+
+.inner {
+    border: 1px solid magenta;
+    width: 50%;
+}
+
+p {
+   margin-left: 20px;
+}
